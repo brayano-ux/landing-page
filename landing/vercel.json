@@ -1,4 +1,5 @@
 {
+  "outputDirectory": "dist/landing/browser",
   "rewrites": [
     {
       "source": "/(.*)",
